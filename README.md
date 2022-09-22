@@ -44,7 +44,7 @@ Azure ADDS + Azure AD (ambiente 100% cloud)
 
 Azure ADDS + Azure AD + Active Directory DS(ambiente hibrido)
 
-![aadds01](images/aadds01.png)
+![aadds02](images/aadds02.png)
 
 # Dúvidas e pontos de atenção do AADDS
 
