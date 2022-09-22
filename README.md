@@ -26,3 +26,12 @@ principais serviços de diretório, gerencimaneto do acesso de aplicativos e pro
 
 * O Azure AD DS integra-se com seu tenant existente do Azure AD. Essa integração permite que usuários entrem em serviços e aplicativos
   conectados ao domínio gerenciado usando as respectivas credenciais existentes.
+
+  👉 Características
+  * Experiência de implantação simplificada
+  * Integrado ao Azure AD
+  * Senhas/credenciais corporativas
+  * Autenticação Kerberos e NTLM
+  * Alta disponibilidade
+  * Possivel adicionar máquinas ao domínio
+  * Suporte utilização de GPOs
