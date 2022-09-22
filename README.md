@@ -45,3 +45,19 @@ Azure ADDS + Azure AD (ambiente 100% cloud)
 Azure ADDS + Azure AD + Active Directory DS(ambiente hibrido)
 
 ![aadds01](images/aadds01.png)
+
+# Dúvidas e pontos de atenção do AADDS
+
+```  
+* Usuário deve ser criado no Azure AD para ser replicado para o AADDS
+* Usuários replicados não podem ser movidos das OUs defaults
+* O AADDS não é uma extensõ do ADDS (AD LOCAL)
+* TODOS os usuários sincronizados do Azure AD para o AADDS precisam resetar suas senhas
+* A politica de troca de senhas do Azure AD e AADDS não é unificada
+* O nome do domínio do AADDS deve ser um domínio roteável e diferente do seu domínio local
+* Não é possível extender o schema do AADDS
+* Não é possível criar atributos customizados no AADDS
+* Não é possível pausar o serviço do AADDS
+* Não suporte a integração com usuários guest do Azure AD 
+
+``` 
