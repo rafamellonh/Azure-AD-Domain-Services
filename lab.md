@@ -47,3 +47,7 @@
 
 ![aadds16](images/aadds16.png)
 ![aadds17](images/aadds17.png)
+
+👉 Abra o gerenciador de usuários e computadores 
+
+![aadds18](images/aadds18.png)
