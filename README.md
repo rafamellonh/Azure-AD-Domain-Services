@@ -41,3 +41,7 @@ principais serviços de diretório, gerencimaneto do acesso de aplicativos e pro
 Azure ADDS + Azure AD (ambiente 100% cloud)
 
 ![aadds01](images/aadds01.png)
+
+Azure ADDS + Azure AD + Active Directory DS(ambiente hibrido)
+
+![aadds01](images/aadds01.png)
