@@ -22,3 +22,4 @@
 ![aadds09](images/aadds09.png)
 
 👉 Virtual Machine
+* Crie uma VM simples para realizar o gerenciamento do AADDS
