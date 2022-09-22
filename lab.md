@@ -24,5 +24,9 @@
 ![aadds07](images/aadds07.png)
 ![aadds08](images/aadds08.png)
 ![aadds09](images/aadds09.png)
+
+* Clique aqui para fazer a correção nos registros de DNS na VNET
 ![aadds10](images/aadds10.png)
+![aadds11](images/aadds11.png)
+![aadds12](images/aadds12.png)
 
