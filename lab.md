@@ -8,6 +8,9 @@
 * As VNETs precisam levar os endereços de IPs do Active directory Domins Servers para que todas as vms
   consigam chegar até o domínio.
 
+🔖 OBS
+* Não é possível movimentar objetos que foram sincronizados do Azure Active directory  
+
 👉 Virtual Network
 
 ![aadds03](images/aadds03.png)
