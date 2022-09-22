@@ -31,3 +31,7 @@
 ![aadds12](images/aadds12.png)
 ![aadds13](images/aadds13.png)
 
+* Valide a configuração na VNET
+
+![aadds14](images/aadds14.png)
+
