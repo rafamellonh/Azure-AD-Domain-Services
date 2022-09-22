@@ -61,3 +61,5 @@ Azure ADDS + Azure AD + Active Directory DS(ambiente hibrido)
 * Não suporte a integração com usuários guest do Azure AD 
 
 ``` 
+
+🔖 Demonstração prática
