@@ -35,3 +35,9 @@
 
 ![aadds14](images/aadds14.png)
 
+👉 Conforme dito, é preciso alterar as senhas dos usuários
+* Altere a senha do usuário que foi cadastrado para administrar o AADDS
+
+👉 Insira a VM no domínio com esse usuário ou qualquer usuário dentro do grupo abaixo:
+
+![aadds15](images/aadds15.png)
