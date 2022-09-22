@@ -14,8 +14,11 @@
 
 👉 AADDS
  * Esse processo pode demorar até duas horas.
+  
 ![aadds05](images/aadds05.png)
 ![aadds06](images/aadds06.png)
 ![aadds07](images/aadds07.png)
 ![aadds08](images/aadds08.png)
 ![aadds09](images/aadds09.png)
+
+👉 Virtual Machine
