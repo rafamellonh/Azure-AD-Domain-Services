@@ -62,4 +62,4 @@ Azure ADDS + Azure AD + Active Directory DS(ambiente hibrido)
 
 ``` 
 
-🔖 Demonstração prática
+🔖 Demonstração prática [aqui](https://github.com/rafamellonh/Azure-AD-Domain-Services/blob/main/lab.md)
