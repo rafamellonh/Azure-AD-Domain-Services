@@ -35,3 +35,9 @@ principais serviços de diretório, gerencimaneto do acesso de aplicativos e pro
   * Alta disponibilidade
   * Possivel adicionar máquinas ao domínio
   * Suporte utilização de GPOs
+
+🔖 Cenários Azure ADDS
+
+Azure ADDS + Azure AD (ambiente 100% cloud)
+
+![aadds01](images/aadds01.png)
