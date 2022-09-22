@@ -26,6 +26,7 @@
 ![aadds09](images/aadds09.png)
 
 * Clique aqui para fazer a correção nos registros de DNS na VNET
+
 ![aadds10](images/aadds10.png)
 ![aadds11](images/aadds11.png)
 ![aadds12](images/aadds12.png)
@@ -41,3 +42,5 @@
 👉 Insira a VM no domínio com esse usuário ou qualquer usuário dentro do grupo abaixo:
 
 ![aadds15](images/aadds15.png)
+
+👉 Logue na VM
