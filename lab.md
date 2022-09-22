@@ -43,4 +43,7 @@
 
 ![aadds15](images/aadds15.png)
 
-👉 Logue na VM
+👉 Logue na VM e instale as seguintes features:
+
+![aadds16](images/aadds16.png)
+![aadds17](images/aadds17.png)
